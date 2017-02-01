@@ -1,0 +1,11 @@
+# Standard sbt ignores
+target/
+src_managed/
+project/boot/
+test-reports/
+*.log*
+.classpath
+.cache
+.project
+out/
+*.iml
